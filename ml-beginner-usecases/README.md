@@ -1,4 +1,4 @@
-# Data Science Internship @ OasisInfobytes
+# Beginner ML project ideas
 
 Welcome to my Data Science journey! As part of my internship experience, I’ve gained hands-on expertise in a variety of data science tasks. Below is a list of projects I have worked on, each designed to showcase my skills in data analysis, machine learning, and predictive modeling.
 
